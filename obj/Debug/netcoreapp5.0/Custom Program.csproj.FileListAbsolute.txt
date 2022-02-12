@@ -1,0 +1,16 @@
+C:\Users\ASUS\OneDrive - Swinburne University\Documents\Object Oriented Programmings\Custom Program\bin\Debug\netcoreapp5.0\Custom Program.exe
+C:\Users\ASUS\OneDrive - Swinburne University\Documents\Object Oriented Programmings\Custom Program\bin\Debug\netcoreapp5.0\Custom Program.deps.json
+C:\Users\ASUS\OneDrive - Swinburne University\Documents\Object Oriented Programmings\Custom Program\bin\Debug\netcoreapp5.0\Custom Program.runtimeconfig.json
+C:\Users\ASUS\OneDrive - Swinburne University\Documents\Object Oriented Programmings\Custom Program\bin\Debug\netcoreapp5.0\Custom Program.runtimeconfig.dev.json
+C:\Users\ASUS\OneDrive - Swinburne University\Documents\Object Oriented Programmings\Custom Program\bin\Debug\netcoreapp5.0\Custom Program.dll
+C:\Users\ASUS\OneDrive - Swinburne University\Documents\Object Oriented Programmings\Custom Program\bin\Debug\netcoreapp5.0\ref\Custom Program.dll
+C:\Users\ASUS\OneDrive - Swinburne University\Documents\Object Oriented Programmings\Custom Program\bin\Debug\netcoreapp5.0\Custom Program.pdb
+C:\Users\ASUS\OneDrive - Swinburne University\Documents\Object Oriented Programmings\Custom Program\obj\Debug\netcoreapp5.0\Custom Program.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive - Swinburne University\Documents\Object Oriented Programmings\Custom Program\obj\Debug\netcoreapp5.0\Custom Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive - Swinburne University\Documents\Object Oriented Programmings\Custom Program\obj\Debug\netcoreapp5.0\Custom Program.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive - Swinburne University\Documents\Object Oriented Programmings\Custom Program\obj\Debug\netcoreapp5.0\Custom Program.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive - Swinburne University\Documents\Object Oriented Programmings\Custom Program\obj\Debug\netcoreapp5.0\Custom Program.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - Swinburne University\Documents\Object Oriented Programmings\Custom Program\obj\Debug\netcoreapp5.0\Custom Program.dll
+C:\Users\ASUS\OneDrive - Swinburne University\Documents\Object Oriented Programmings\Custom Program\obj\Debug\netcoreapp5.0\ref\Custom Program.dll
+C:\Users\ASUS\OneDrive - Swinburne University\Documents\Object Oriented Programmings\Custom Program\obj\Debug\netcoreapp5.0\Custom Program.pdb
+C:\Users\ASUS\OneDrive - Swinburne University\Documents\Object Oriented Programmings\Custom Program\obj\Debug\netcoreapp5.0\Custom Program.genruntimeconfig.cache
